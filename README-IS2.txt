@@ -1,1 +1,2 @@
 - Sergio Gil - sagilm@unal.edu.co - ScrumMaster
+- Daniel Felipe Bueno - dafbuenoca@unael.edu.co - Developer
